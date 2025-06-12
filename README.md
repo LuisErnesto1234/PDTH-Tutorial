@@ -19,6 +19,8 @@
 
 <h4>Nota:</h4>
 <p>Este tutorial no funciona para versiones de steam verde 🏴‍☠️<del>Esas versiones ya cuentan con el DLC</del></p>
+<p>Hay casos donde se elimina el progreso del juego al usar esta modificacion, asi que toma tus precausiones. AVISADO ESTAS</del></p>
+
 
 <h3>Pasos para desbloquear el DLC - Mascaras</h3>
 <ol>

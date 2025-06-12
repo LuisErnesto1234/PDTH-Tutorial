@@ -1,4 +1,6 @@
-<h1><center>Tutorial - Desbloquear PDTH - Mask - DLC</center></h1>
+<div align="center">
+<h1>Tutorial | Desbloquear PDTH - Mask - DLC</h1>
+</div>
 
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/fr/f/fd/Payday_The_Heist_Logo.jpg" alt="PDTH Logo" width="200">
@@ -18,10 +20,10 @@
 <h4>Nota:</h4>
 <p>Este tutorial no funciona para versiones de steam verde 🏴‍☠️<del>Esas versiones ya cuentan con el DLC</del></p>
 
-<h3>Pasos para desbloquear el DLC - Mask</h3>
+<h3>Pasos para desbloquear el DLC - Mascaras</h3>
 <ol>
     <li>Abre la carpeta de instalación del juego. Por lo general, se encuentra en <code>C:\Program Files (x86)\Steam\steamapps\common\Payday The Heist</code>.</li>
-    <li>Descarga el repositorio, ahi encontraras los siguientes archivos</li>
+    <li>Descarga la carpeta de <code>archivos_necesarios</code>, ahi encontraras los siguientes archivos</li>
         <ul>
             <li><code>📄 IPHLPAPI.dll</code></li>
             <li><code>📄 PD2Hook.yml</code></li>
@@ -30,7 +32,8 @@
             <li><code>📄 All_Mask.lua</code></li>
         </ul>
     </li>
-    <li>Copia los archivos a la carpeta raiz de tu juego PDTH</li>
+    <li>Copia los archivos a la carpeta raiz de tu juego PDTH, copia los archivos tal cual, deja los archivos <code>.lua</code> dentro de la carpeta 📁<code>LTKBGooGoo</code></li>
+    <li>Ejecuta el juego 🎮</li>
 </ol>
 
 <h4>Nota: 👀</h4>
@@ -40,7 +43,7 @@
 <details>
     <summary>Advertencia de seguridad</summary>
     <p>Por defecto Windows elimina el archivo <code>IPHLPAPI.dll</code></p>
-    <p>La solucion, excluye la carpeta raiz de tu juego payday the heist, de la seguirdad de Windows</p>
+    <p>La solucion, excluye la carpeta raiz de tu juego payday the heist, de la seguridad de Windows</p>
 </details>
 
 <h3>Preguntas Frecuentes:</h3>
@@ -50,7 +53,7 @@
 </details>
 <details>
     <summary>¿Funciona en el online?</summary>
-    <p>Funciona correctamente en el multijugador, incluye el DLC y las mascaras desbloqueadas.</p>
+    <p>Funciona correctamente en el multijugador, incluido el DLC y las mascaras desbloqueadas.</p>
 </details>
 <details>
     <summary>¿Hay Ban?</summary>

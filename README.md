@@ -25,7 +25,7 @@
 <h3>Pasos para desbloquear el DLC - Mascaras</h3>
 <ol>
     <li>Abre la carpeta de instalación del juego. Por lo general, se encuentra en <code>C:\Program Files (x86)\Steam\steamapps\common\Payday The Heist</code>.</li>
-    <li>Descarga la carpeta de <code>archivos_necesarios</code>, ahi encontraras los siguientes archivos</li>
+    <li>Descarga la carpeta de <code>archivos_necesarios</code>, que se encuentra en este repositorio, ahi encontraras los siguientes archivos:</li>
         <ul>
             <li><code>📄 IPHLPAPI.dll</code></li>
             <li><code>📄 PD2Hook.yml</code></li>

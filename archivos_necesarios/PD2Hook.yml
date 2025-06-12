@@ -1,0 +1,12 @@
+﻿Config:
+ OutputMode: 1
+ OutputFile: PD2HookLOG.log
+ PrintOffsets: true
+ ExtraCols: 10
+ ExtraRows: 10
+
+PersistScripts:
+ - [GLOBALS_FUNCTIONS, LTKBGooGoo\All_Masks.lua]
+PostRequireScripts:
+- [lib/managers/dlcmanager, LTKBGooGoo\DLCUnlocker.lua]
+ # - [PSEUDO_CHANGER, PSEUDO_CHANGER.lua]
